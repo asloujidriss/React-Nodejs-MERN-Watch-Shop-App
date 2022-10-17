@@ -1,0 +1,27 @@
+.tabdil{
+    margin-left: 2%;
+    position: initial;
+    top: 119%;
+    z-index: 876;
+    transform-origin: 0 0 0;
+    -moz-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    padding: 1px;
+    left: 0;
+    margin: 0; 
+} 
+.habta{
+    margin-left: -6%;
+    background: #fff;
+
+}
+.habta2{
+    background: #fff;
+}
+.okhra{
+    display: inline-block;
+    color: #fff;
+    font-size: 13px;
+    font-weight: 500; 
+    padding: 0px 8px;
+}

@@ -1,0 +1,20 @@
+.section-title{
+    margin-top: 5%;
+}
+.free-version-banner {
+    position: relative;
+    background: #333;
+    text-align: center;
+    background-color: white;
+    margin-bottom: 100px;
+}
+.section-titlee{
+    margin-top: -7%;
+    margin-bottom: 50%;
+    text-align: center;
+    padding-bottom: 4%;
+}
+.grid6 {
+    width: 45.9%;
+    float: left;
+}

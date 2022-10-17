@@ -1,0 +1,21 @@
+.btnplace {
+  margin-top: -15%;
+  margin-left: -12%;
+}
+.arriere {
+    background-color: #fff
+    /* background: url(../../../public/assets/images/54b95e5d0ff8cad210f69e4e370b4d4f.jpg) no-repeat #fff; */
+}
+.cadre{
+    /* padding: 38px;
+    box-shadow: 0px 0px 15px #0000001a; */
+    height: 50%;
+}
+.bggg{
+  background-color: #170045;
+}
+.change{
+  color: #c2975b;
+  text-align: center;
+  margin-bottom: 5%;
+}
